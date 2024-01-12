@@ -1,0 +1,6 @@
+@article{REPO343,
+    author = "Chen, Jiayang and Hu, Zhihang and Sun, Siqi and Tan, Qingxiong and Wang, Yixuan and Yu, Qinze and Zong, Licheng and Hong, Liang and Xiao, Jin and Shen, Tao and King, Irwin and Li, Yu",
+    journal = "bioRxiv",
+    title = "{Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions}",
+    year = "2022"
+}
